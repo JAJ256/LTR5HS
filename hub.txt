@@ -1,0 +1,91 @@
+hub LTR5HStrackHub
+shortLabel LTR5HS Track Hub
+longLabel Data from Fuentes et al eLIFE 2018
+useOneFile on
+email jaj256@cornell.edu
+
+genome hg38
+
+track KRAB_LTR5HS_Sa_Rep1
+shortLabel KRAB_LTR5HS_Sa_Rep1
+longLabel KRAB_LTR5HS_Sa_Rep1
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/KRAB_LTR5HS_Sa_Rep1.bw
+
+track KRAB_LTR5HS_Sa_Rep2
+shortLabel KRAB_LTR5HS_Sa_Rep2
+longLabel KRAB_LTR5HS_Sa_Rep2
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/KRAB_LTR5HS_Sa_Rep2.bw
+
+track KRAB_LTR5HS_Sp_Rep1
+shortLabel KRAB_LTR5HS_Sp_Rep1
+longLabel KRAB_LTR5HS_Sp_Rep1
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/KRAB_LTR5HS_Sp_Rep1.bw
+
+track KRAB_LTR5HS_Sp_Rep2
+shortLabel KRAB_LTR5HS_Sp_Rep2
+longLabel KRAB_LTR5HS_Sp_Rep2
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/KRAB_LTR5HS_Sp_Rep2.bw
+
+track KRAB_NT_Sa_Rep1
+shortLabel KRAB_NT_Sa_Rep1
+longLabel KRAB_NT_Sa_Rep1
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/KRAB_NT_Sa_Rep1.bw
+
+track KRAB_NT_Sa_Rep2
+shortLabel KRAB_NT_Sa_Rep2
+longLabel KRAB_NT_Sa_Rep2
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/KRAB_NT_Sa_Rep2.bw
+
+track VPR_LTR5HS_Sa_Rep1
+shortLabel VPR_LTR5HS_Sa_Rep1
+longLabel VPR_LTR5HS_Sa_Rep1
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/VPR_LTR5HS_Sa_Rep1.bw
+
+track VPR_LTR5HS_Sa_Rep2
+shortLabel VPR_LTR5HS_Sa_Rep2
+longLabel VPR_LTR5HS_Sa_Rep2
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/VPR_LTR5HS_Sa_Rep2.bw
+
+track VPR_LTR5HS_Sp_Rep1
+shortLabel VPR_LTR5HS_Sp_Rep1
+longLabel VPR_LTR5HS_Sp_Rep1
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/VPR_LTR5HS_Sp_Rep1.bw
+
+track VPR_LTR5HS_Sp_Rep2
+shortLabel VPR_LTR5HS_Sp_Rep2
+longLabel VPR_LTR5HS_Sp_Rep2
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/VPR_LTR5HS_Sp_Rep2.bw
+
+track VPR_NT_Sa_Rep1
+shortLabel VPR_NT_Sa_Rep1
+longLabel VPR_NT_Sa_Rep1
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/VPR_NT_Sa_Rep1.bw
+
+track VPR_NT_Sa_Rep2
+shortLabel VPR_NT_Sa_Rep2
+longLabel VPR_NT_Sa_Rep2
+color 255,0,0
+type bigWig
+bigDataUrl https://github.com/JAJ256/LTR5HS/raw/master/bw/VPR_NT_Sa_Rep2.bw
